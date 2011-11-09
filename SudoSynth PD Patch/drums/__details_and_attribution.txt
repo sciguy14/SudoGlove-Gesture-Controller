@@ -1,0 +1,184 @@
+
+=================== FREESOUND ATTRIBUTION FORM =======================
+
+This form below lists all the samples in this pack with their descriptions and tags.
+You can use this form to attribute samples to users when you use them.
+
+=========================== CUT HERE =================================
+
+File:
+	Name: "909 clap.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=3718
+	Date of upload: 2005-07-08 08:37:12
+	
+Designer / Creator / Uploader:
+	Name: "NoiseCollector"
+	Url: http://www.freesound.org/usersViewSingle.php?id=4948
+	
+Description:
+	By "NoiseCollector" : Created with Drumsynth freeware. Emulation of Roland TR909-like sounds normalized with Voyetra Advanced Audio Editor. 
+
+Tags:
+	 909 clap drum drum-machine free percussion roland sample sound synthesized 
+======================================================================
+
+File:
+	Name: "909 hat open.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=3719
+	Date of upload: 2005-07-08 08:37:15
+	
+Designer / Creator / Uploader:
+	Name: "NoiseCollector"
+	Url: http://www.freesound.org/usersViewSingle.php?id=4948
+	
+Description:
+	By "NoiseCollector" : Created with Drumsynth freeware. Emulation of Roland TR909-like sounds normalized with Voyetra Advanced Audio Editor. 
+
+Tags:
+	909 drum-machine hat percussion synthesized 
+======================================================================
+
+File:
+	Name: "909 hat open2.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=3720
+	Date of upload: 2005-07-08 08:37:17
+	
+Designer / Creator / Uploader:
+	Name: "NoiseCollector"
+	Url: http://www.freesound.org/usersViewSingle.php?id=4948
+	
+Description:
+	By "NoiseCollector" : Created with Drumsynth freeware. Emulation of Roland TR909-like sounds normalized with Voyetra Advanced Audio Editor. 
+
+Tags:
+	909 drum-machine hat percussion synthesized 
+======================================================================
+
+File:
+	Name: "909 hat.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=3721
+	Date of upload: 2005-07-08 08:37:21
+	
+Designer / Creator / Uploader:
+	Name: "NoiseCollector"
+	Url: http://www.freesound.org/usersViewSingle.php?id=4948
+	
+Description:
+	By "NoiseCollector" : Created with Drumsynth freeware. Emulation of Roland TR909-like sounds normalized with Voyetra Advanced Audio Editor. 
+
+Tags:
+	909 drum-machine hat percussion synthesized 
+======================================================================
+
+File:
+	Name: "909 hat2.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=3722
+	Date of upload: 2005-07-08 08:37:24
+	
+Designer / Creator / Uploader:
+	Name: "NoiseCollector"
+	Url: http://www.freesound.org/usersViewSingle.php?id=4948
+	
+Description:
+	By "NoiseCollector" : Created with Drumsynth freeware. Emulation of Roland TR909-like sounds normalized with Voyetra Advanced Audio Editor. 
+
+Tags:
+	drum-machine hat percussion synthesized 
+======================================================================
+
+File:
+	Name: "909 kick long.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=3723
+	Date of upload: 2005-07-08 08:37:27
+	
+Designer / Creator / Uploader:
+	Name: "NoiseCollector"
+	Url: http://www.freesound.org/usersViewSingle.php?id=4948
+	
+Description:
+	By "NoiseCollector" : Created with Drumsynth freeware. Emulation of Roland TR909-like sounds normalized with Voyetra Advanced Audio Editor. 
+
+Tags:
+	drum-machine kick percussion synthesized 
+======================================================================
+
+File:
+	Name: "909 kick.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=3724
+	Date of upload: 2005-07-08 08:37:34
+	
+Designer / Creator / Uploader:
+	Name: "NoiseCollector"
+	Url: http://www.freesound.org/usersViewSingle.php?id=4948
+	
+Description:
+	By "NoiseCollector" : Created with Drumsynth freeware. Emulation of Roland TR909-like sounds normalized with Voyetra Advanced Audio Editor. 
+
+Tags:
+	drum-machine kick percussion synthesized 
+======================================================================
+
+File:
+	Name: "909 kick2.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=3725
+	Date of upload: 2005-07-08 08:37:36
+	
+Designer / Creator / Uploader:
+	Name: "NoiseCollector"
+	Url: http://www.freesound.org/usersViewSingle.php?id=4948
+	
+Description:
+	By "NoiseCollector" : Created with Drumsynth freeware. Emulation of Roland TR909-like sounds normalized with Voyetra Advanced Audio Editor. 
+
+Tags:
+	drum-machine kick percussion synthesized 
+======================================================================
+
+File:
+	Name: "909 kick3.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=3726
+	Date of upload: 2005-07-08 08:37:39
+	
+Designer / Creator / Uploader:
+	Name: "NoiseCollector"
+	Url: http://www.freesound.org/usersViewSingle.php?id=4948
+	
+Description:
+	By "NoiseCollector" : Created with Drumsynth freeware. Emulation of Roland TR909-like sounds normalized with Voyetra Advanced Audio Editor. 
+
+Tags:
+	drum-machine kick percussion synthesized 
+======================================================================
+
+File:
+	Name: "909 snare.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=3727
+	Date of upload: 2005-07-08 08:37:44
+	
+Designer / Creator / Uploader:
+	Name: "NoiseCollector"
+	Url: http://www.freesound.org/usersViewSingle.php?id=4948
+	
+Description:
+	By "NoiseCollector" : Created with Drumsynth freeware. Emulation of Roland TR909-like sounds normalized with Voyetra Advanced Audio Editor. 
+
+Tags:
+	drum-machine percussion snare synthesized 
+======================================================================
+
+File:
+	Name: "909 snare2.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=3728
+	Date of upload: 2005-07-08 08:37:47
+	
+Designer / Creator / Uploader:
+	Name: "NoiseCollector"
+	Url: http://www.freesound.org/usersViewSingle.php?id=4948
+	
+Description:
+	By "NoiseCollector" : Created with Drumsynth freeware. Emulation of Roland TR909-like sounds normalized with Voyetra Advanced Audio Editor. 
+
+Tags:
+	drum-machine percussion snare synthesized 
+======================================================================
+

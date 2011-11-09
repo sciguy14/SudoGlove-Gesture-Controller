@@ -1,0 +1,136 @@
+
+=================== FREESOUND ATTRIBUTION FORM =======================
+
+This form below lists all the samples in this pack with their descriptions and tags.
+You can use this form to attribute samples to users when you use them.
+
+=========================== CUT HERE =================================
+
+File:
+	Name: "240404K.mp3"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=7503
+	Date of upload: 2005-09-04 14:50:02
+	
+Designer / Creator / Uploader:
+	Name: "Freed"
+	Url: http://www.freesound.org/usersViewSingle.php?id=600
+	
+Description:
+	By "Freed" : Electronic oscillator bass sound in a permanent repeating sequence, differentiated by continuous changing filter values.
+
+Tags:
+	bass filter repetition sequence 
+======================================================================
+
+File:
+	Name: "240404L.mp3"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=7504
+	Date of upload: 2005-09-04 14:50:33
+	
+Designer / Creator / Uploader:
+	Name: "Freed"
+	Url: http://www.freesound.org/usersViewSingle.php?id=600
+	
+Description:
+	By "Freed" : Electronic oscillator bass sound in a permanent repeating sequence, strong differentiated by continuous changing filter values.
+
+Tags:
+	bass filter repetition sequence 
+======================================================================
+
+File:
+	Name: "240404M.mp3"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=7505
+	Date of upload: 2005-09-04 14:50:40
+	
+Designer / Creator / Uploader:
+	Name: "Freed"
+	Url: http://www.freesound.org/usersViewSingle.php?id=600
+	
+Description:
+	By "Freed" : Electronic oscillator bass sound in a permanent repeating sequence, extremely differentiated by continuous changing filter values.
+
+Tags:
+	bass filter repetition sequence 
+======================================================================
+
+File:
+	Name: "240404N.mp3"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=7506
+	Date of upload: 2005-09-04 14:50:45
+	
+Designer / Creator / Uploader:
+	Name: "Freed"
+	Url: http://www.freesound.org/usersViewSingle.php?id=600
+	
+Description:
+	By "Freed" : Electronic oscillator bass sound in a permanent repeating sequence, kept in very dark and fuggy filter range.
+
+Tags:
+	bass filter repetition sequence 
+======================================================================
+
+File:
+	Name: "240404O.mp3"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=7507
+	Date of upload: 2005-09-04 14:50:48
+	
+Designer / Creator / Uploader:
+	Name: "Freed"
+	Url: http://www.freesound.org/usersViewSingle.php?id=600
+	
+Description:
+	By "Freed" : Electronic oscillator bass sound in a permanent repeating higher ranged sequence, strong differentiated by continuous changing filter values.
+
+Tags:
+	bass filter repetition sequence 
+======================================================================
+
+File:
+	Name: "240404P.mp3"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=7508
+	Date of upload: 2005-09-04 14:50:51
+	
+Designer / Creator / Uploader:
+	Name: "Freed"
+	Url: http://www.freesound.org/usersViewSingle.php?id=600
+	
+Description:
+	By "Freed" : Electronic oscillator bass sound in a permanent repeating very low ranged sequence, differentiated by continuous changing filter values.
+
+Tags:
+	bass filter repetition sequence 
+======================================================================
+
+File:
+	Name: "240404Q.mp3"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=7509
+	Date of upload: 2005-09-04 14:50:57
+	
+Designer / Creator / Uploader:
+	Name: "Freed"
+	Url: http://www.freesound.org/usersViewSingle.php?id=600
+	
+Description:
+	By "Freed" : Electronic oscillator bass sound in a permanent repeating extremely low ranged sequence, differentiated by continuous changing filter values. Sound elements are overlapping.
+
+Tags:
+	bass filter repetition sequence 
+======================================================================
+
+File:
+	Name: "240404R.mp3"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=7510
+	Date of upload: 2005-09-04 14:50:59
+	
+Designer / Creator / Uploader:
+	Name: "Freed"
+	Url: http://www.freesound.org/usersViewSingle.php?id=600
+	
+Description:
+	By "Freed" : Electronic oscillator bass sound in a permanent repeating sequence built of one middle and very deep elements, differentiated by continuous changing filter values.
+
+Tags:
+	bass filter repetition sequence 
+======================================================================
+

@@ -1,0 +1,200 @@
+
+=================== FREESOUND ATTRIBUTION FORM =======================
+
+This form below lists all the samples in this pack with their descriptions and tags.
+You can use this form to attribute samples to users when you use them.
+
+=========================== CUT HERE =================================
+
+File:
+	Name: "Piano A.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=68437
+	Date of upload: 2009-03-03 23:28:42
+	
+Designer / Creator / Uploader:
+	Name: "pinkyfinger"
+	Url: http://www.freesound.org/usersViewSingle.php?id=871124
+	
+Description:
+	By "pinkyfinger" : Part of a series of piano notes spanning one octave.
+
+Tags:
+	a keyboard keyboard-note keyboard-notes note notes piano piano-note piano-notes 
+======================================================================
+
+File:
+	Name: "Piano B.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=68438
+	Date of upload: 2009-03-03 23:28:47
+	
+Designer / Creator / Uploader:
+	Name: "pinkyfinger"
+	Url: http://www.freesound.org/usersViewSingle.php?id=871124
+	
+Description:
+	By "pinkyfinger" : Part of a series of piano notes spanning one octave.
+
+Tags:
+	b keyboard keyboard-note keyboard-notes note notes piano piano-note piano-notes 
+======================================================================
+
+File:
+	Name: "Piano Bb.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=68439
+	Date of upload: 2009-03-03 23:28:50
+	
+Designer / Creator / Uploader:
+	Name: "pinkyfinger"
+	Url: http://www.freesound.org/usersViewSingle.php?id=871124
+	
+Description:
+	By "pinkyfinger" : Part of a series of piano notes spanning one octave.
+
+Tags:
+	b-flat bb keyboard keyboard-note keyboard-notes note notes piano piano-note piano-notes 
+======================================================================
+
+File:
+	Name: "Piano C#.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=68440
+	Date of upload: 2009-03-03 23:28:52
+	
+Designer / Creator / Uploader:
+	Name: "pinkyfinger"
+	Url: http://www.freesound.org/usersViewSingle.php?id=871124
+	
+Description:
+	By "pinkyfinger" : Part of a series of piano notes spanning one octave.
+
+Tags:
+	c c-sharp keyboard keyboard-note keyboard-notes note notes piano piano-note piano-notes 
+======================================================================
+
+File:
+	Name: "Piano C.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=68441
+	Date of upload: 2009-03-03 23:28:54
+	
+Designer / Creator / Uploader:
+	Name: "pinkyfinger"
+	Url: http://www.freesound.org/usersViewSingle.php?id=871124
+	
+Description:
+	By "pinkyfinger" : Part of a series of piano notes spanning one octave.
+
+Tags:
+	c keyboard keyboard-note keyboard-notes note notes piano piano-note piano-notes 
+======================================================================
+
+File:
+	Name: "Piano D.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=68442
+	Date of upload: 2009-03-03 23:28:55
+	
+Designer / Creator / Uploader:
+	Name: "pinkyfinger"
+	Url: http://www.freesound.org/usersViewSingle.php?id=871124
+	
+Description:
+	By "pinkyfinger" : Part of a series of piano notes spanning one octave.
+
+Tags:
+	d keyboard keyboard-note keyboard-notes note notes piano piano-note piano-notes 
+======================================================================
+
+File:
+	Name: "Piano E.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=68443
+	Date of upload: 2009-03-03 23:28:57
+	
+Designer / Creator / Uploader:
+	Name: "pinkyfinger"
+	Url: http://www.freesound.org/usersViewSingle.php?id=871124
+	
+Description:
+	By "pinkyfinger" : Part of a series of piano notes spanning one octave.
+
+Tags:
+	e keyboard keyboard-note keyboard-notes note notes piano piano-note piano-notes 
+======================================================================
+
+File:
+	Name: "Piano Eb.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=68444
+	Date of upload: 2009-03-03 23:28:59
+	
+Designer / Creator / Uploader:
+	Name: "pinkyfinger"
+	Url: http://www.freesound.org/usersViewSingle.php?id=871124
+	
+Description:
+	By "pinkyfinger" : Part of a series of piano notes spanning one octave.
+
+Tags:
+	e-flat eb keyboard keyboard-note keyboard-notes note notes piano piano-note piano-notes 
+======================================================================
+
+File:
+	Name: "Piano F#.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=68445
+	Date of upload: 2009-03-03 23:29:01
+	
+Designer / Creator / Uploader:
+	Name: "pinkyfinger"
+	Url: http://www.freesound.org/usersViewSingle.php?id=871124
+	
+Description:
+	By "pinkyfinger" : Part of a series of piano notes spanning one octave.
+
+Tags:
+	f f-sharp keyboard keyboard-note keyboard-notes note notes piano piano-note piano-notes 
+======================================================================
+
+File:
+	Name: "Piano F.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=68446
+	Date of upload: 2009-03-03 23:29:03
+	
+Designer / Creator / Uploader:
+	Name: "pinkyfinger"
+	Url: http://www.freesound.org/usersViewSingle.php?id=871124
+	
+Description:
+	By "pinkyfinger" : Part of a series of piano notes spanning one octave.
+
+Tags:
+	f keyboard keyboard-note keyboard-notes note notes piano piano-note piano-notes 
+======================================================================
+
+File:
+	Name: "Piano G#.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=68447
+	Date of upload: 2009-03-03 23:29:04
+	
+Designer / Creator / Uploader:
+	Name: "pinkyfinger"
+	Url: http://www.freesound.org/usersViewSingle.php?id=871124
+	
+Description:
+	By "pinkyfinger" : Part of a series of piano notes spanning one octave.
+
+Tags:
+	g g-sharp keyboard keyboard-note keyboard-notes note notes piano piano-note piano-notes 
+======================================================================
+
+File:
+	Name: "Piano G.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=68448
+	Date of upload: 2009-03-03 23:29:05
+	
+Designer / Creator / Uploader:
+	Name: "pinkyfinger"
+	Url: http://www.freesound.org/usersViewSingle.php?id=871124
+	
+Description:
+	By "pinkyfinger" : Part of a series of piano notes spanning one octave.
+
+Tags:
+	g keyboard keyboard-note keyboard-notes note notes piano piano-note piano-notes 
+======================================================================
+

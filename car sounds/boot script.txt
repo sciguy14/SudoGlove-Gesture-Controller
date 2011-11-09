@@ -1,0 +1,6 @@
+Initializing SudoGlove Control System
+Please Hold your Hand Still while the sensors are calibrated.
+Initializing flux capacitor relay sytems.
+Coupling Quantum Interpolation Vectors
+System Boot Complete
+Initializing Control in 3...2...1

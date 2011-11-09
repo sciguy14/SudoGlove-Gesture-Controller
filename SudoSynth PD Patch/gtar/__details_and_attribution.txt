@@ -1,0 +1,952 @@
+
+=================== FREESOUND ATTRIBUTION FORM =======================
+
+This form below lists all the samples in this pack with their descriptions and tags.
+You can use this form to attribute samples to users when you use them.
+
+=========================== CUT HERE =================================
+
+File:
+	Name: "A5th.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8448
+	Date of upload: 2005-10-16 22:45:43
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open A 5th chord. Down strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "A_full.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8449
+	Date of upload: 2005-10-16 22:45:46
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open A Major chord. Down strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "A_full_up.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8450
+	Date of upload: 2005-10-16 22:45:49
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open A Major chord. Up strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "A_thin_strs.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8451
+	Date of upload: 2005-10-16 22:45:52
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open A Major chord but the only strings played are the E (1st), B (2nd), and G (3rd). Up strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "Aadd2_full.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8452
+	Date of upload: 2005-10-16 22:45:53
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open Aadd2 chord. The same as A Major except the B (2nd) string is open. Down strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "Aadd2_full_up.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8453
+	Date of upload: 2005-10-16 22:46:05
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open Aadd2 chord. The same as A Major except the B (2nd) string is open. Up strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "Aadd2_thin_strs.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8454
+	Date of upload: 2005-10-16 22:46:07
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open Aadd2 chord but the only strings played are the E (1st), B (2nd), and G (3rd). Up strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "Amin_full.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8455
+	Date of upload: 2005-10-16 22:46:12
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open A minor chord. Down strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "Amin_full_up.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8456
+	Date of upload: 2005-10-16 22:46:13
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open A minor chord. Up strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "Amin_thin_strs.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8457
+	Date of upload: 2005-10-16 22:46:15
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open A minor chord but the only strings played are the E (1st), B (2nd), and G (3rd). Up strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "Asus_full_OK.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8458
+	Date of upload: 2005-10-16 22:46:19
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open Asus4 chord. The same as A Major except the B (2nd) string which has the 3rd fret held. Down strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "Asus_full_up_OK.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8459
+	Date of upload: 2005-10-16 22:46:20
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open Asus4 chord. The same as A Major except the B (2nd) string which has the 3rd fret held. Up strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "Asus_thin_strs_OK.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8460
+	Date of upload: 2005-10-16 22:46:22
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open Asus4 chord but the only strings played are the E (1st), B (2nd), and G (3rd). Up strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "Bmin--(Mid-G).wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8461
+	Date of upload: 2005-10-16 22:46:34
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : This is a part of the G Major chord, but it sounds like a B minor. The A (5th) string 2nd fret, D (4th) string open, and the G (3rd) string open. Down strum. It\'s used well as a bridge chord between C Major and A minor. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "C2_full-OK.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8462
+	Date of upload: 2005-10-16 22:46:36
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open C chord except the E (1st) string which has the 3rd fret held. Down strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "C2_full_up-OK.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8463
+	Date of upload: 2005-10-16 22:46:44
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open C chord except the E (1st) string which has the 3rd fret held. Up strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "C2_thin_strs_OK.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8464
+	Date of upload: 2005-10-16 22:46:46
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open C chord except the E (1st) string which has the 3rd fret held; but the only strings played are the E (1st), B (2nd), and G (3rd). Up strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "CMj7_full.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8465
+	Date of upload: 2005-10-16 22:46:49
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open C Major 7th chord. The same as C Major except the B (2nd) string is open. Down strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "CMj7_full_up.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8466
+	Date of upload: 2005-10-16 22:46:51
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open C Major 7th chord. The same as C Major except the B (2nd) string is open. Up strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "CMj7_thin_strs.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8467
+	Date of upload: 2005-10-16 22:46:54
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open C Major 7th chord but the only strings played are the E (1st), B (2nd), and G (3rd). Up strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "C_full.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8468
+	Date of upload: 2005-10-16 22:46:57
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open C Major chord. Down strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "C_full_up.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8469
+	Date of upload: 2005-10-16 22:47:05
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open C Major chord. Up strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "C_thick_strs.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8470
+	Date of upload: 2005-10-16 22:47:08
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open C Major chord but the only strings played are the , A (5th), D (4th), and G (3rd). Down strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "C_thin_strs.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8471
+	Date of upload: 2005-10-16 22:47:16
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open C Major chord but the only strings played are the E (1st), B (2nd), and G (3rd). Up strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "Cadd9_full.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8472
+	Date of upload: 2005-10-16 22:47:18
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open Cadd9 chord. The same as C Major except the B (2nd) string which has the 3rd fret held. Down strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "Cadd9_full_up.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8473
+	Date of upload: 2005-10-16 22:47:24
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open Cadd9 chord. The same as C Major except the B (2nd) string which has the 3rd fret held. Up strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "Cadd9_thin_strs.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8474
+	Date of upload: 2005-10-16 22:47:27
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open Cadd9 chord but the only strings played are the E (1st), B (2nd), and G (3rd). Up strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "D_5th.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8475
+	Date of upload: 2005-10-16 22:47:30
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open D 5th chord. Down strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "D_full_OK.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8476
+	Date of upload: 2005-10-16 22:47:41
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open D Major chord. Down strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "D_full_up_OK.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8477
+	Date of upload: 2005-10-16 22:47:43
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open D Major chord. Up strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "D_thin_strs_OK.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8478
+	Date of upload: 2005-10-16 22:47:44
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open D Major chord but the only strings played are the E (1st), B (2nd), and G (3rd). Up strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "Dadd2_full_OK.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8479
+	Date of upload: 2005-10-16 22:47:49
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open Dadd2 chord. The same as A Major except the E (1st) string is open. Down strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "Dadd2_full_up_OK.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8480
+	Date of upload: 2005-10-16 22:47:51
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open Dadd2 chord. The same as A Major except the E (1st) string is open. Up strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "Dadd2_thin_strings_OK.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8481
+	Date of upload: 2005-10-16 22:47:54
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open Dadd2 chord but the only strings played are the E (1st), B (2nd), and G (3rd). Up strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "Dmin_full_OK.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8482
+	Date of upload: 2005-10-16 22:47:56
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open D minor chord. Down strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "Dmin_full_up_OK.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8483
+	Date of upload: 2005-10-16 22:47:58
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open D minor chord. Up strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "Dmin_thin_strs_OK.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8484
+	Date of upload: 2005-10-16 22:48:03
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open D minor chord but the only strings played are the E (1st), B (2nd), and G (3rd). Up strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "Dsus_full_OK.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8485
+	Date of upload: 2005-10-16 22:48:22
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open Dsus4 chord. The same as D Major except the E (1st) string which has the 3rd fret held. Down strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "Dsus_full_up_OK.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8486
+	Date of upload: 2005-10-16 22:48:23
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open Dsus4 chord. The same as D Major except the E (1st) string which has the 3rd fret held. Up strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "Dsus_thin_strs_OK.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8487
+	Date of upload: 2005-10-16 22:48:25
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open Dsus4 chord but the only strings played are the E (1st), B (2nd), and G (3rd). Up strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "E5th.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8488
+	Date of upload: 2005-10-16 22:48:28
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open A 5th chord. Down strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "E_full.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8489
+	Date of upload: 2005-10-16 22:48:29
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open E Major chord. Down strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "E_full_up.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8490
+	Date of upload: 2005-10-16 22:48:31
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open E Major chord. Up strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "E_thin_strs.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8491
+	Date of upload: 2005-10-16 22:48:33
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open E Major chord but the only strings played are the E (1st), B (2nd), and G (3rd). Up strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "Emin_full.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8492
+	Date of upload: 2005-10-16 22:48:35
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open E minor chord. Down strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "Emin_full_up.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8493
+	Date of upload: 2005-10-16 22:48:38
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open E minor chord. Up strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "Emin_thin_strs.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8494
+	Date of upload: 2005-10-16 22:48:39
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open E minor chord but the only strings played are the E (1st), B (2nd), and G (3rd). Up strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "F#min--(Low-D).wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8495
+	Date of upload: 2005-10-16 22:48:40
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : This is a part of the D Major chord with an F# bass note, but it sounds like a F# minor. The E (6th) string 2nd fret, A (5th) string open, and the D (4th) string open. Down strum. It\'s used well as a bridge chord between C Major and A minor. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "G2_full.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8496
+	Date of upload: 2005-10-16 22:48:44
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open G chord except the B (2nd) string which has the 3rd fret held. Down strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "G2_full_up.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8497
+	Date of upload: 2005-10-16 22:49:01
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open G chord except the B (2nd) string which has the 3rd fret held. Up strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "G2_thin_ strs.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8498
+	Date of upload: 2005-10-16 22:49:03
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open G chord except the E (1st) string which has the 3rd fret held; but the only strings played are the E (1st), B (2nd), and G (3rd). Up strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "G_full.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8499
+	Date of upload: 2005-10-16 22:49:04
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open G Major chord. Down strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "G_full_up.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8500
+	Date of upload: 2005-10-16 22:49:07
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open G Major chord. Up strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "G_thick_ strs.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8501
+	Date of upload: 2005-10-16 22:49:09
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open G Major chord but the only strings played are the E (6th), A (5th), and D (4th). Down strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "G_thin_ strs.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8502
+	Date of upload: 2005-10-16 22:49:17
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : Standard open G Major chord but the only strings played are the E (1st), B (2nd), and G (3rd). Up strum. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "Open_strs.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8503
+	Date of upload: 2005-10-16 22:49:19
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : These are open strings that some play during a chord change. Open E (1st), B (2nd), G (3rd), and D (4th). If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "Sliencing_strings_high.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8504
+	Date of upload: 2005-10-16 22:49:23
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : This is where the strumming hand lightly slaps down onto the strings to silence them. This one has a higher tone than the others. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "Sliencing_strings_low.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8505
+	Date of upload: 2005-10-16 22:49:24
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : This is where the strumming hand lightly slaps down onto the strings to silence them. This one has a lower tone than the others. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+
+File:
+	Name: "Sliencing_strings_midle.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8506
+	Date of upload: 2005-10-16 22:49:26
+	
+Designer / Creator / Uploader:
+	Name: "SpeedY"
+	Url: http://www.freesound.org/usersViewSingle.php?id=6479
+	
+Description:
+	By "SpeedY" : This is where the strumming hand lightly slaps down onto the strings to silence them. This one has a middle tone. If any of these samples have any errors or faults, please tell me.
+
+Tags:
+	acoustic clean guitar nylon-guitar open-chords 
+======================================================================
+

@@ -1,0 +1,392 @@
+
+=================== FREESOUND ATTRIBUTION FORM =======================
+
+This form below lists all the samples in this pack with their descriptions and tags.
+You can use this form to attribute samples to users when you use them.
+
+=========================== CUT HERE =================================
+
+File:
+	Name: "150104A.mp3"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8408
+	Date of upload: 2005-10-16 22:43:52
+	
+Designer / Creator / Uploader:
+	Name: "Freed"
+	Url: http://www.freesound.org/usersViewSingle.php?id=600
+	
+Description:
+	By "Freed" : Accelerating elements of digital oscillator sounds moving from middle to high register using reverb.
+
+Tags:
+	effect electric reverb vector 
+======================================================================
+
+File:
+	Name: "150104B.mp3"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8409
+	Date of upload: 2005-10-16 22:43:55
+	
+Designer / Creator / Uploader:
+	Name: "Freed"
+	Url: http://www.freesound.org/usersViewSingle.php?id=600
+	
+Description:
+	By "Freed" : Irregularly repeating elements of digital oscillator sounds in middle register using reverb.
+
+Tags:
+	effect electric repetition reverb 
+======================================================================
+
+File:
+	Name: "150104C.mp3"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8410
+	Date of upload: 2005-10-16 22:43:57
+	
+Designer / Creator / Uploader:
+	Name: "Freed"
+	Url: http://www.freesound.org/usersViewSingle.php?id=600
+	
+Description:
+	By "Freed" : Accelerating elements of digital oscillator sounds moving from middle to low register using reverb.
+
+Tags:
+	effect electric reverb vector 
+======================================================================
+
+File:
+	Name: "150104D.mp3"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8411
+	Date of upload: 2005-10-16 22:44:01
+	
+Designer / Creator / Uploader:
+	Name: "Freed"
+	Url: http://www.freesound.org/usersViewSingle.php?id=600
+	
+Description:
+	By "Freed" : Irregularly sequence of elements of digital oscillator sounds moving from middle to high register using reverb.
+
+Tags:
+	effect electric reverb vector 
+======================================================================
+
+File:
+	Name: "150104E.mp3"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8412
+	Date of upload: 2005-10-16 22:44:02
+	
+Designer / Creator / Uploader:
+	Name: "Freed"
+	Url: http://www.freesound.org/usersViewSingle.php?id=600
+	
+Description:
+	By "Freed" : Irregularly sequence of elements of digital oscillator sounds spread over low to high register using reverb.
+
+Tags:
+	effect electric reverb spread 
+======================================================================
+
+File:
+	Name: "150104F.mp3"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8413
+	Date of upload: 2005-10-16 22:44:05
+	
+Designer / Creator / Uploader:
+	Name: "Freed"
+	Url: http://www.freesound.org/usersViewSingle.php?id=600
+	
+Description:
+	By "Freed" : Irregularly repeating elements of digital oscillator sounds in middle to low register using reverb.
+
+Tags:
+	effect electric repetition reverb 
+======================================================================
+
+File:
+	Name: "170104A.mp3"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8414
+	Date of upload: 2005-10-16 22:44:07
+	
+Designer / Creator / Uploader:
+	Name: "Freed"
+	Url: http://www.freesound.org/usersViewSingle.php?id=600
+	
+Description:
+	By "Freed" : Accelerating and decelerating repeating elements of digital oscillator sounds in bass register.
+
+Tags:
+	effect electric repetition 
+======================================================================
+
+File:
+	Name: "170104B.mp3"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8415
+	Date of upload: 2005-10-16 22:44:08
+	
+Designer / Creator / Uploader:
+	Name: "Freed"
+	Url: http://www.freesound.org/usersViewSingle.php?id=600
+	
+Description:
+	By "Freed" : Accelerating and decelerating repeating elements of digital oscillator sounds in bass register while variating pitch and spectra.
+
+Tags:
+	effect electric repetition 
+======================================================================
+
+File:
+	Name: "170104C.mp3"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8416
+	Date of upload: 2005-10-16 22:44:11
+	
+Designer / Creator / Uploader:
+	Name: "Freed"
+	Url: http://www.freesound.org/usersViewSingle.php?id=600
+	
+Description:
+	By "Freed" : Wide spread spectra of accelerating and decelerating repeating elements of digital oscillator sounds while variating pitch and spectra.
+
+Tags:
+	effect electric repetition spectra 
+======================================================================
+
+File:
+	Name: "170104D.mp3"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8417
+	Date of upload: 2005-10-16 22:44:13
+	
+Designer / Creator / Uploader:
+	Name: "Freed"
+	Url: http://www.freesound.org/usersViewSingle.php?id=600
+	
+Description:
+	By "Freed" : Two lines of accelerating and decelerating repeating elements of digital oscillator sounds, one in bass register, the other in middle register, while variating pitch and spectra.
+
+Tags:
+	effect electric repetition 
+======================================================================
+
+File:
+	Name: "170104E.mp3"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8418
+	Date of upload: 2005-10-16 22:44:16
+	
+Designer / Creator / Uploader:
+	Name: "Freed"
+	Url: http://www.freesound.org/usersViewSingle.php?id=600
+	
+Description:
+	By "Freed" : Spectra spread in middle to high register of accelerating and decelerating repeating elements of digital oscillator sounds while causing special sound accents.
+
+Tags:
+	effect electric repetition spectra 
+======================================================================
+
+File:
+	Name: "170104F.mp3"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8419
+	Date of upload: 2005-10-16 22:44:18
+	
+Designer / Creator / Uploader:
+	Name: "Freed"
+	Url: http://www.freesound.org/usersViewSingle.php?id=600
+	
+Description:
+	By "Freed" : Wide spread spectra of synchronously accelerating and decelerating repeating elements of digital oscillator sounds while variating pitch and spectra.
+
+Tags:
+	effect electric repetition spectra 
+======================================================================
+
+File:
+	Name: "170104G.mp3"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8420
+	Date of upload: 2005-10-16 22:44:21
+	
+Designer / Creator / Uploader:
+	Name: "Freed"
+	Url: http://www.freesound.org/usersViewSingle.php?id=600
+	
+Description:
+	By "Freed" : Wide spread spectra of synchronously accelerating and decelerating repeating elements of noise sounds, causing special sound accents.
+
+Tags:
+	effect noise repetition spectra 
+======================================================================
+
+File:
+	Name: "180104A.mp3"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8421
+	Date of upload: 2005-10-16 22:44:23
+	
+Designer / Creator / Uploader:
+	Name: "Freed"
+	Url: http://www.freesound.org/usersViewSingle.php?id=600
+	
+Description:
+	By "Freed" : Accelerating and decelerating repeating elements of a dark pulse sound with short reverb effect.
+
+Tags:
+	noise pulse repetition reverb 
+======================================================================
+
+File:
+	Name: "180104B.mp3"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8422
+	Date of upload: 2005-10-16 22:44:26
+	
+Designer / Creator / Uploader:
+	Name: "Freed"
+	Url: http://www.freesound.org/usersViewSingle.php?id=600
+	
+Description:
+	By "Freed" : Two lines of accelerating and decelerating repeating elements of digital oscillator sounds, one in bass register, the other in high register, while variating pitch.
+
+Tags:
+	effect electric repetition 
+======================================================================
+
+File:
+	Name: "180104C.mp3"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8423
+	Date of upload: 2005-10-16 22:44:28
+	
+Designer / Creator / Uploader:
+	Name: "Freed"
+	Url: http://www.freesound.org/usersViewSingle.php?id=600
+	
+Description:
+	By "Freed" : Two lines of duplexed accelerating and decelerating repeating elements of digital oscillator sounds, residing in bass register on the same pitch, that is slightly variated.
+
+Tags:
+	effect electric repetition 
+======================================================================
+
+File:
+	Name: "180104D.mp3"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8424
+	Date of upload: 2005-10-16 22:44:29
+	
+Designer / Creator / Uploader:
+	Name: "Freed"
+	Url: http://www.freesound.org/usersViewSingle.php?id=600
+	
+Description:
+	By "Freed" : Accelerating and decelerating repeating elements of noise sounds, variated by filters while causing special sound accents.
+
+Tags:
+	effect filter noise repetition 
+======================================================================
+
+File:
+	Name: "180104E.mp3"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8425
+	Date of upload: 2005-10-16 22:44:32
+	
+Designer / Creator / Uploader:
+	Name: "Freed"
+	Url: http://www.freesound.org/usersViewSingle.php?id=600
+	
+Description:
+	By "Freed" : Wide spread spectra of accelerating and decelerating repeating elements of digital oscillator sounds while variating pitch and spectra. Creates a rather chaotic effect.
+
+Tags:
+	effect electric spectra spread 
+======================================================================
+
+File:
+	Name: "180104F.mp3"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8426
+	Date of upload: 2005-10-16 22:44:34
+	
+Designer / Creator / Uploader:
+	Name: "Freed"
+	Url: http://www.freesound.org/usersViewSingle.php?id=600
+	
+Description:
+	By "Freed" : Same as 180104E.mp3, but starting with higher density that is reduced to one sound in the end.
+
+Tags:
+	effect electric spectra spread vector 
+======================================================================
+
+File:
+	Name: "180104G.mp3"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8427
+	Date of upload: 2005-10-16 22:44:37
+	
+Designer / Creator / Uploader:
+	Name: "Freed"
+	Url: http://www.freesound.org/usersViewSingle.php?id=600
+	
+Description:
+	By "Freed" : Transition from glissando starting register to a repetition in middle register.
+
+Tags:
+	electronic glissando repetition vector 
+======================================================================
+
+File:
+	Name: "300804A.mp3"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8428
+	Date of upload: 2005-10-16 22:44:40
+	
+Designer / Creator / Uploader:
+	Name: "Freed"
+	Url: http://www.freesound.org/usersViewSingle.php?id=600
+	
+Description:
+	By "Freed" : Tone-noise glissando followed by a short sequence of irregularly repeated dark noise sounds.
+
+Tags:
+	effect glissando noise repetition 
+======================================================================
+
+File:
+	Name: "020904A.mp3"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8429
+	Date of upload: 2005-10-16 22:44:43
+	
+Designer / Creator / Uploader:
+	Name: "Freed"
+	Url: http://www.freesound.org/usersViewSingle.php?id=600
+	
+Description:
+	By "Freed" : Sequence of various pitch vectors spread over the whole spectrum while extremely accelerating and decelerating the single elements. Sound produced by digital oscillators.
+
+Tags:
+	effect electric vector 
+======================================================================
+
+File:
+	Name: "050904A.mp3"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=8430
+	Date of upload: 2005-10-16 22:44:50
+	
+Designer / Creator / Uploader:
+	Name: "Freed"
+	Url: http://www.freesound.org/usersViewSingle.php?id=600
+	
+Description:
+	By "Freed" : Various lines of accelerating and decelerating noise elements differentiated by various filters.
+
+Tags:
+	effect filter noise repetition 
+======================================================================
+
+File:
+	Name: "160302A.mp3"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=9469
+	Date of upload: 2005-11-08 10:25:56
+	
+Designer / Creator / Uploader:
+	Name: "Freed"
+	Url: http://www.freesound.org/usersViewSingle.php?id=600
+	
+Description:
+	By "Freed" : Long digital electronic glissando.
+
+Tags:
+	electronic glissando 
+======================================================================
+

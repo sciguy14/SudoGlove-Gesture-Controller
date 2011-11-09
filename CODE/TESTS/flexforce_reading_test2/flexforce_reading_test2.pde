@@ -1,0 +1,16 @@
+int forcePin1 = 0;
+int forceVal1 = 0;
+int mapVal1 = 0;
+
+void setup()
+{
+  Serial.begin(9600);
+}
+
+void loop()
+{
+  forceVal1 = analogRead(forcePin1);
+  mapVal1   = map(forceVal1, 1023, 500, 0, 10);
+  Serial.println(mapVal1);
+  delay(100);
+}
