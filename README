@@ -1,0 +1,24 @@
+These are all the materials for the SudoGlove Gesture Controller.
+The SudoGlove was Developed by Jeremy E. Blum <www.jeremyblum.com>
+More info on the SudoGlove is available at www.sudoglove.com
+
+Belt Holster 3D Design:
+These are the laser cutting vectorized files for the belt holster that holds and arduino mega, transceiver, battery, etc.
+
+CODE:
+This includes the arduino code that runs on the SudoGlove, and the arduino code that runs in the RC Car (proof of concept hardware)
+
+Datasheets and Parts Info:
+Some notable info on components used in the system design
+
+Processing Display:
+This is the source code for the processing display program that I used to debug the glove functionality
+
+SudoSynth PD Patch:
+This is the PUREDATA software patch and accompanying sound clips that allow you to use the sudoglove as a music synthesizer
+
+car sounds:
+The RC car that I controlled with the SudoGlove has a SOMO audio module for playing sound effects - These are the sound effects pre-converted to the 4-bit format.
+
+schematics:
+These are the schematics for both the RC car and the SudoGlove Controller
